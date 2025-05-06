@@ -1,0 +1,8 @@
+Span richtig: 0 | Last Updated: None
+Wider richtig: 156 | Last Updated: 2025-02-13 21:50:19
+Strom richtig: 0 | Last Updated: None
+Gemisch richtig: 0 | Last Updated: None
+Span falsch: 0 | Last Updated: None
+Wider falsch: 149 | Last Updated: 2025-02-13 21
+Strom falsch: 0 | Last Updated: None
+Gemisch falsch: 0 | Last Updated: None
